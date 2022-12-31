@@ -33,8 +33,8 @@ This is a standard Rust project so you should be able to get up and running with
 `cargo run` to get started.
 
 ### TODO 
-[ ] Add redis functionality
-[ ] Add dockerfile
-[ ] Add docker-compose.yml for separate links server and redis container
-[ ] Add authentication? PKI support?
-[ ] Mark links as requiring authentication
+ - [ ] Add redis functionality
+ - [ ] Add dockerfile
+ - [ ] Add docker-compose.yml for separate links server and redis container
+ - [ ] Add authentication? PKI support?
+ - [ ] Mark links as requiring authentication
